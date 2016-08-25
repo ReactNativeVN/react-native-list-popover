@@ -1,4 +1,4 @@
-__A modified ListPopover component is implemented in [list-popover-btn](https://github.com/pyliaorachel/react-native-list-popover/tree/list-popover-btn) branch__. Please take a look of a different style of ListPopover!
+__A modified ListPopover component is implemented in [list-popover-btn](https://github.com/pyliaorachel/react-native-list-popover/tree/list-popover-btn) branch. Please take a look of a different style of ListPopover!__
 
 # React-Native List Popover
 
