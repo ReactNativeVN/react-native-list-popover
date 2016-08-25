@@ -1,3 +1,5 @@
+__A modified ListPopover component is implemented in [list-popover-btn](https://github.com/pyliaorachel/react-native-list-popover/tree/list-popover-btn) branch__. Please take a look of a different style of ListPopover!
+
 # React-Native List Popover
 
 Popover is a great way to show a list of items for users to choose from. With <ListPopover/> component you can add a very simple pop over screen with a list of items as the child component and access the selected item from the parent component. It is a very easy way of adding a list of options to the UI.
