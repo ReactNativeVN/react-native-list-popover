@@ -1,5 +1,7 @@
 # React-Native List Popover
 
+__A separate repository has been implemented in [react-native-listview-modal](https://github.com/pyliaorachel/react-native-listview-modal). This branch will hence not been maintained.__
+
 Modified from [react-native-list-popover](https://github.com/bulenttastan/react-native-list-popover).
 
 The main aim for creating this branch is not for PR but to update the out-dated __react-native-list-popover__ and for other developers to take reference from this example.
