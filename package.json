@@ -1,6 +1,6 @@
 {
   "name": "react-native-list-popover",
-  "version": "0.0.1",
+  "version": "1.5.1",
   "description": "<ListPopover/> and <ListPopoverBtn/> components to render a selectable list",
   "main": "ListPopover.js",
   "repository": {
