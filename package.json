@@ -19,9 +19,9 @@
     "url": "https://github.com/pyliaorachel/react-native-list-popover/issues"
   },
   "homepage": "https://github.com/pyliaorachel/react-native-list-popover",
-  "dependencies": {
-    "react": "15.2.1",
-    "react-native": "0.31.0",
+  "devDependencies": {
+    "react": "^15.2.1",
+    "react-native": "^0.31.0",
     "react-native-vector-icons": "^2.1.0"
   }
 }
